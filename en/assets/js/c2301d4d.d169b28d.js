@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguide_docs=self.webpackChunkguide_docs||[]).push([[5242],{1e3:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/guide-docs/en/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
